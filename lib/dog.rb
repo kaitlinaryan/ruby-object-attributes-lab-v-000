@@ -3,7 +3,7 @@ def name=(name)
   @name = name
 end
 
-def names(name)
+def name
   @name
 end
 end
