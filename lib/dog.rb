@@ -6,3 +6,4 @@ end
 def names(name)
   @name
 end
+end
